@@ -1,3 +1,2 @@
-This readme file is a first descriptive file of this project.  The project represents an initial run at software program development activity.  eventually as the repository grows it 
-working with llm files and other AI versions of modern day software rojects.  
-more to come
+This readme file is a first file descriptive of the task assignment(s) of this initial software development project posted, modified, and source tracked on github. 
+The project represents an initial endeavor in programing and in software development activities.  
